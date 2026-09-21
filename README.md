@@ -2,6 +2,10 @@
 
 A Power BI dashboard exploring how students use Generative AI and how AI usage relates to academic performance, study behaviour, skill retention, exam anxiety and other student outcomes.
 
+### 📊 Live Interactive Report
+
+[▶ View Interactive Power BI Dashboard]([PASTE_YOUR_LONG_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiZmE5ZjM4YjAtYzNjNi00Zjk2LWExMjgtYjIzZDBlZmY3MTZhIiwidCI6ImU4MGE2MjdmLWVmOTQtNGFhOS04MmQ2LWM3ZWM5Y2ZjYTMyNCIsImMiOjh9))
+
 ## Project Overview
 
 This project was created to explore patterns in student AI usage and understand how different levels of AI dependency are associated with academic and study-related outcomes.
