@@ -4,7 +4,7 @@ A Power BI dashboard exploring how students use Generative AI and how AI usage r
 
 ### 📊 Live Interactive Report
 
-[▶ View Interactive Power BI Dashboard]([PASTE_YOUR_LONG_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiZmE5ZjM4YjAtYzNjNi00Zjk2LWExMjgtYjIzZDBlZmY3MTZhIiwidCI6ImU4MGE2MjdmLWVmOTQtNGFhOS04MmQ2LWM3ZWM5Y2ZjYTMyNCIsImMiOjh9))
+[▶ View Interactive Power BI Dashboard]([PASTE_YOUR_LONG_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiZmE5ZjM4YjAtYzNjNi00Zjk2LWExMjgtYjIzZDBlZmY3MTZhIiwidCI6ImU4MGE2MjdmLWVmOTQtNGFhOS04MmQ2LWM3ZWM5Y2ZjYTMyNCIsImMiOjh9)
 
 ## Project Overview
 
